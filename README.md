@@ -37,3 +37,4 @@ O desafio foi a criação do layout simples de apresentação das horas atual, a
 
 - Pagina responsiva
 - Horas sincronizada
+- Modo Dark e Light sincronizado com as horas
