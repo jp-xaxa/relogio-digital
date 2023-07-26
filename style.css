@@ -11,6 +11,7 @@
   font-family: 'Open Sans', sans-serif;
 }
 
+/*Construção*/
 body {
   height: 100vh;
   background: linear-gradient(120deg, #EED544, #9EE9B6);
@@ -53,6 +54,12 @@ body {
   font-size: 1.5rem;
 }
 
+/*Mudança de cores*/
+body.dark {
+  background: linear-gradient(120deg, #1C4388, #048CC0);
+}
+
+/*Mobile*/
 @media (max-width: 600px) {
   .relogio {
     height: 30rem;
@@ -73,9 +80,4 @@ body {
   .relogio span.tempo {
     font-size: 0.75rem;
   }
-}
-
-/*Mudança de cores*/
-body.dark {
-  background: linear-gradient(120deg, #1C4388, #048CC0);
 }
