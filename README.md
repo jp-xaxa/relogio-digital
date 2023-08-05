@@ -29,6 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto _Relógio Digital_ foi realizado como estudo de aprendizado para aprimorar mais os conhecimento de HTML, CSS e JavaScript.
 
+- [Acesse o projeto finalizado, online](https://jp-xaxa.github.io/relogio-digital/)
+
 <h1 align="center">
   Funcionalidades
 </h1>
